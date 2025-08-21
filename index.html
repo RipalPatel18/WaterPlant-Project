@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1" >
+  <title>GrowGo</title>
+  <link rel="stylesheet" href="style.css" >
+  <script defer src="script.js"></script>
+  <link rel="icon" href="images/plant.png" type="image/x-icon" >
+</head>
+<body>
+  <div class="container">
+    <h1><img src="images/plant.png" width="50" alt="Plant Icon"> GrowGo</h1>
+
+    <form id="plantForm">
+      <input type="text" id="plantName" placeholder="Plant Name" required >
+      <input type="number" id="wateringInterval" placeholder="Water every (days)" min="1" required >
+      <select id="sunlightRequirement" required>
+        <option value="" disabled selected>Select Sunlight</option>
+        <option value="Low">Low Sunlight</option>
+        <option value="Medium">Medium Sunlight</option>
+        <option value="High">High Sunlight</option>
+      </select>
+
+      <button type="submit">Add Plant</button>
+    </form>
+
+    <ul id="plantList"></ul>
+
+    <audio id="wateringSound" src="audio/water.mp3" preload="auto"></audio>
+  </div>
+</body>
+</html>
