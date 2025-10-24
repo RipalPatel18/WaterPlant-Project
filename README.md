@@ -29,13 +29,6 @@ The WaterPlant Project creates a web scene of a plant being watered — with ani
 ---
 
 ## 📸 Demo & Screenshots  
-*(Add a screenshot or animated GIF here to showcase the project)*  
-![Screenshot of WaterPlant Project](images/screenshot.png)  
-You can also view a live demo: [GitHub Pages Link](#) *(replace # with actual link)*
+![GrowGo](https://github.com/user-attachments/assets/4b174da6-b2a8-498d-9ee3-7c933699b537)
 
----
 
-## 🚀 How to Run Locally  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/RipalPatel18/WaterPlant-Project.git
