@@ -28,7 +28,7 @@ The WaterPlant Project creates a web scene of a plant being watered — with ani
 
 ---
 
-## 📸 Demo & Screenshots  
+## 📸 Screenshots  
 ![GrowGo](https://github.com/user-attachments/assets/4b174da6-b2a8-498d-9ee3-7c933699b537)
 
 
